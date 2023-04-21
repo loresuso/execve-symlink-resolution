@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Custom files and directories
+src/.output/
+.vscode/
+src/debug
+tools/
